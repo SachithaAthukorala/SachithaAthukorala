@@ -13,10 +13,10 @@ Undergraduate software engineer with 2 years of hands-on experience in both fron
 * 🧠  I'm learning Python, React, Figma
 * ⚡  I love Errors ! 🥴
 
+<img align="right" alt="Hello World" width="400" src="https://images.squarespace-cdn.com/content/v1/610179e7006e8156a3c79a9f/593f629a-b02c-41a3-bbc8-a69ee2e8f37f/hello+world+%280.42KB%29_2.gif?format=1500w">
+
 <a href="https://www.github.com/SachithaAthukorala" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SachithaAthukorala?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/SachiAthukorala" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/SachiAthukorala?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/SachithaAthukorala?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
