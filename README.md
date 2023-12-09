@@ -6,14 +6,15 @@ Software Developer
 
 Undergraduate software engineer with 2 years of hands-on experience in both front-end and back-end development. Passionate about crafting efficient and user-friendly solutions, I thrive in creating seamless experiences across the full stack. Constantly exploring new technologies and methodologies to enhance my skills and deliver innovative solutions.
 
+<img align="right" alt="Hello World" width="150" height="200" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.gif">
+
+
 * 🌍  I'm based in Sri Lanka
 * 🖥️  See my portfolio at [Currently Working On The Portfolio](http://github.com/SachithaAthukorala)
 * ✉️  You can contact me at [sachithaathukorala@gmail.com](mailto:sachithaathukorala@gmail.com)
 * 🚀  I'm currently working on [#Startup 01 and Portfolio](http://#)
 * 🧠  I'm learning Python, React, Figma
 * ⚡  I love Errors ! 🥴
-
-<img align="right" alt="Hello World" width="400" src="https://images.squarespace-cdn.com/content/v1/610179e7006e8156a3c79a9f/593f629a-b02c-41a3-bbc8-a69ee2e8f37f/hello+world+%280.42KB%29_2.gif?format=1500w">
 
 <a href="https://www.github.com/SachithaAthukorala" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SachithaAthukorala?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
