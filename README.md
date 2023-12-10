@@ -1,4 +1,4 @@
-Hi 👋 My name is Sachitha Athukorala
+Hi 👋 I Am Sachitha Athukorala
 ====================================
 
 Software Developer
