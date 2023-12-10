@@ -43,9 +43,6 @@ src="https://img.shields.io/github/followers/SachithaAthukorala?logo=github&styl
 
 <a href="http://www.github.com/SachithaAthukorala"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SachithaAthukorala&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
 
-### Contribution is Eating By Snake
-![snake gif](https://github.com/SachithaAthukorala/SachithaAthukorala/blob/output/github-contribution-grid-snake.svg)
-
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
