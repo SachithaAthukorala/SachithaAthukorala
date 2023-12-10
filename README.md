@@ -37,11 +37,12 @@ src="https://img.shields.io/github/followers/SachithaAthukorala?logo=github&styl
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SachithaAthukorala"><img src="https://github-readme-stats.vercel.app/api?username=SachithaAthukorala&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SachithaAthukorala's GitHub stats"/></a>
-
-<a href="https://github.com/SachithaAthukorala" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachithaAthukorala&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/SachithaAthukorala"><img src="https://github-readme-stats.vercel.app/api?username=SachithaAthukorala&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SachithaAthukorala's GitHub stats" height="192px"/></a>
+<a href="https://github.com/hoangtien2k3qx1/hoangtien2k3qx1"><img alt="SachithaAthukorala's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hoangtien2k3qx1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
 <a href="http://www.github.com/SachithaAthukorala"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SachithaAthukorala&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
+
+
 
 ### Support Me
 
