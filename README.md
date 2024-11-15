@@ -47,3 +47,9 @@ src="https://img.shields.io/github/followers/SachithaAthukorala?logo=github&styl
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/sachithaathukorala"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SachithaAthukorala/SachithaAthukorala/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SachithaAthukorala/SachithaAthukorala/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SachithaAthukorala/SachithaAthukorala/output/github-snake.svg" />
+</picture>
