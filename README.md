@@ -1,4 +1,4 @@
-<img src="sachithaGitBanner.gif" alt="Header" width="100%" height="350px"/>
+<img src="sachithaGitBanner.gif" alt="Header" width="100%" height="50vh"/>
 
 Hi 👋 I Am Sachitha Athukorala
 ====================================
