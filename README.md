@@ -47,7 +47,3 @@ src="https://img.shields.io/github/followers/SachithaAthukorala?logo=github&styl
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/sachithaathukorala"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-
-<img src="https://raw.githubusercontent.com/SachithaAthukorala/SachithaAthukorala/output/snake.svg" alt="Snake animation" />
-
-###
