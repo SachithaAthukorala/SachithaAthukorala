@@ -11,9 +11,7 @@ Undergraduate software engineer with 2 years of hands-on experience in both fron
 <img align="right" alt="Hello World" width="150" height="200" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.gif">
 
 * 🌍  I'm based in Sri Lanka
-* 🖥️  See my portfolio at [Currently Working On The Portfolio](http://github.com/SachithaAthukorala)
 * ✉️  You can contact me at [sachithaathukorala@gmail.com](mailto:sachithaathukorala@gmail.com)
-* 🚀  I'm currently working on [#Startup 01 and Portfolio](http://#)
 * 🧠  I'm learning Python, React, Figma
 * ⚡  I love Errors ! 🥴
 
